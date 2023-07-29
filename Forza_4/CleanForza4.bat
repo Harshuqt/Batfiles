@@ -1,0 +1,1 @@
+RD /S /Q "C:\Users\%Username%\AppData\Local\ForzaHorizon4"
