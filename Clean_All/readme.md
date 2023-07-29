@@ -7,4 +7,4 @@ Please Read it Carefully before using it. I Will not be responsible for anything
 
 - Significantly Boost Performance
 
-- Clear all The Cache
+- Clear all The Cache in any Windows OS and make it Significantly faster :zap:
