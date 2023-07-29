@@ -26,7 +26,7 @@ It Does what it says Clear The 5M Cache and Also Deletes All the servers Cache t
 
 ### **Warning :exclamation:** : This Will Delete All Download Cache That you have you have to Download Again.
 
-:warning: This will also Delete The Following
+This will also **Delete The Following**
 
 - Mods
 
