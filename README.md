@@ -13,6 +13,6 @@ Please Read it Carefully before using it. I Will not be responsible for anything
 
 - Enjoy :innocent: 
 
-## Contribute :handshake:
+## :handshake: Contribute
 
-You can Also Contribute There is always a Room For Improvement :sparkles:
+:sparkles: You can Also Contribute There is always a Room For Improvement
