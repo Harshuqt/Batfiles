@@ -1,0 +1,5 @@
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\data"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\logs"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\mods"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\plugins"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\crashes"
