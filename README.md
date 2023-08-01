@@ -11,7 +11,11 @@ Please Read it Carefully before using it. I Will not be responsible for anything
 
 - Ignore The Smart_Screen (As it was False Positive Message) by Click On **More Info** Warning and Run Anyway
 
-- Enjoy :innocent: 
+- Enjoy :innocent:
+
+### ⚠️ Note :
+
+- If You Are Facing Any Issue please Consider doing A **System Restart** and it will Fix It :innocent:
 
 ## :handshake: Contribute
 
