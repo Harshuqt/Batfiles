@@ -11,6 +11,7 @@ RD /S /Q "C:\Users\%Username%\AppData\Local\AMD\CN"
 RD /S /Q "C:\Users\%Username%\AppData\Local\pip\cache"
 RD /S /Q "C:\Users\%Username%\AppData\Local\Plex Media Server\Cache"
 RD /S /Q "C:\Users\%Username%\AppData\Roaming\Adobe\Common\Media Cache Files"
+RD /S /Q "C:\Users\%Username%\AppData\Local\Google\Nearby\Sharing\Logs"
 call CleanForza4.bat
 netsh winsock reset
 netsh int ip reset
