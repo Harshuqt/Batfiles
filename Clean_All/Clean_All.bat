@@ -8,6 +8,7 @@ RD /S /Q "C:\Users\%Username%\AppData\Local\Spotify\Data"
 RD /S /Q "C:\Users\%Username%\Desktop\debug.log"
 RD /S /Q "C:\Users\%Username%\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\AppIconCache"
 RD /S /Q "C:\Users\%Username%\AppData\Local\AMD\CN"
+RD /S /Q "C:\Users\%Username%\AppData\Local\pip\cache"
 call CleanForza4.bat
 netsh winsock reset
 netsh int ip reset
