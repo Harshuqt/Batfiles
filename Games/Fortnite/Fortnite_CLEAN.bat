@@ -1,0 +1,6 @@
+RD /S /Q "C:\Users\%Username%\AppData\Local\EpicGamesLauncher\Saved\webcache_4430"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FortniteGame\Saved\Cloud"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FortniteGame\Saved\Config"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FortniteGame\Saved\LMS"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FortniteGame\Saved\Logs"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FortniteGame\Saved\PersistentDownloadDir"

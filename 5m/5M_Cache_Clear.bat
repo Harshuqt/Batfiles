@@ -1,0 +1,8 @@
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\data\cache"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\data\server-cache"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\data\server-cache-priv"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\logs"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\data\nui-storage\Cache"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\data\nui-storage\Code Cache"
+RD /S /Q "C:\Users\%Username%\AppData\Local\FiveM\FiveM.app\data\nui-storage\GPUCache"
+RD /S /Q "C:\Users\%Username%\\AppData\Local\FiveM\FiveM.app\crashes"
